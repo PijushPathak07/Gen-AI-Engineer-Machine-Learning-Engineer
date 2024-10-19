@@ -51,34 +51,34 @@ The challenge is to ensure the model can handle various types of questions, retr
 ## Example Queries and Outputs
 
 1. **Query**: "What are the main points of the document?"
-   - **Response**: "The main points of this cover letter are:
+   - **Response**: 
+   *"The main points of this cover letter are:*
+   *- The applicant, Pijush Pathak, is applying for a Research Fellowship at Microsoft, highlighting their background in AI, machine learning, and data analytics.*
 
-- The applicant, Pijush Pathak, is applying for a Research Fellowship at Microsoft, highlighting their background in AI, machine learning, and data analytics.
+   *- They hold a B.Tech. in Computer Science and Engineering with a specialization in Big Data Analytics and have experience as a Data Scientist Associate at Blackcoffer, where they worked on AI-driven projects.*
 
-- They hold a B.Tech. in Computer Science and Engineering with a specialization in Big Data Analytics and have experience as a Data Scientist Associate at Blackcoffer, where they worked on AI-driven projects.
+   *- Pijush has published research on Sentiment Analysis and Text Extraction, demonstrating their ability to contribute to AI research.*
 
-- Pijush has published research on Sentiment Analysis and Text Extraction, demonstrating their ability to contribute to AI research.
+   *- The applicant is attracted to the fellowship because it offers a balance between research and real-world application, collaboration with experts, and the opportunity to contribute to program synthesis research.*
 
-- The applicant is attracted to the fellowship because it offers a balance between research and real-world application, collaboration with experts, and the opportunity to contribute to program synthesis research.
+   *- Key qualifications include proficiency in Python and machine learning/deep learning frameworks, experience in model development and optimization, strong communication skills, and a passion for advancing AI research.*
 
-- Key qualifications include proficiency in Python and machine learning/deep learning frameworks, experience in model development and optimization, strong communication skills, and a passion for advancing AI research.
-
-- Pijush expresses confidence in their technical skills and enthusiasm for AI,"
+   *- Pijush expresses confidence in their technical skills and enthusiasm for AI,"*
 
 2. **Query**: "What is the main topic of the document?"
    - **Response**: "The main topic of the document is a job application for a Research Fellowship at Microsoft."
 
 3. **Query**: "What are some key takeaways from the document?"
-   - **Response**: "Here are some key takeaways from the document:
-
-- Pijush Pathak is a recent graduate with a B.Tech. in Computer Science and Engineering with a specialization in Big Data Analytics from SRM Institute of Science & Technology.
-- They have a strong background in AI, machine learning, and data analytics, with practical experience in developing and fine-tuning machine learning models during an internship at Blackcoffer as a Data Scientist Associate.
-- Pathak has published research on Sentiment Analysis and Text Extraction from Tweets using SpaCy NER, demonstrating their ability to contribute to AI research.
-- Their key skills include proficiency in Python, machine learning, and deep learning frameworks (Keras, TensorFlow), experience in model development and optimization for production, strong communication and collaboration skills, and a passion for advancing AI research and solving real-world problems.
-- Pathak is motivated by the opportunity to work at Microsoft, where they can contribute to cutting-edge research, collaborate with experts,"
+   - **Response**: 
+   *"Here are some key takeaways from the document:*
+   *- Pijush Pathak is a recent graduate with a B.Tech. in Computer Science and Engineering with a specialization in Big Data Analytics from SRM Institute of Science & Technology.*
+   *- They have a strong background in AI, machine learning, and data analytics, with practical experience in developing and fine-tuning machine learning models during an internship at  Blackcoffer as a Data Scientist Associate.*
+   *- Pathak has published research on Sentiment Analysis and Text Extraction from Tweets using SpaCy NER, demonstrating their ability to contribute to AI research.*
+   *- Their key skills include proficiency in Python, machine learning, and deep learning frameworks (Keras, TensorFlow), experience in model development and optimization for production, strong communication and collaboration skills, and a passion for advancing AI research and solving real-world problems.*
+   *- Pathak is motivated by the opportunity to work at Microsoft, where they can contribute to cutting-edge research, collaborate with experts "*
 
 4. **Query**: "Can you summarize the document briefly?"
-   - **Response**: "Pijush Pathak, a B.Tech. graduate in Computer Science and Engineering with a specialization in Big Data Analytics, is applying for a Research Fellowship at Microsoft. Pathak has a background in AI, machine learning, and data analytics, with experience as a Data Scientist Associate at Blackcoffer, where they worked on AI-driven projects. They have published research on sentiment analysis and text extraction from tweets, demonstrating their ability to contribute to AI research. Pathak is excited about the fellowship because it offers a balance between research and real-world application, collaboration with experts, and the opportunity to contribute to Microsoft's program synthesis research. Their key qualifications include proficiency in Python, machine learning, and deep learning frameworks, experience in model development and optimization, strong communication skills, and a passion for advancing AI research and solving impactful problems.
+   - **Response**: *"Pijush Pathak, a B.Tech. graduate in Computer Science and Engineering with a specialization in Big Data Analytics, is applying for a Research Fellowship at Microsoft. Pathak has a background in AI, machine learning, and data analytics, with experience as a Data Scientist Associate at Blackcoffer, where they worked on AI-driven projects. They have published research on sentiment analysis and text extraction from tweets, demonstrating their ability to contribute to AI research. Pathak is excited about the fellowship because it offers a balance between research and real-world application, collaboration with experts, and the opportunity to contribute to Microsoft's program synthesis research. Their key qualifications include proficiency in Python, machine learning, and deep learning frameworks, experience in model development and optimization, strong communication skills, and a passion for advancing AI research and solving impactful problems."*
 "
 
 ## How to Use
